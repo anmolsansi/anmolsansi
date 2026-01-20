@@ -130,6 +130,18 @@ ML/AI Full Stack Software Engineer | Python, Java, React, AWS | LLMs + RAG | Hig
 
 ---
 
+### 🔹 FHIR-Based Patient Data Ingestion Platform
+
+> A pipeline to ingest and normalize healthcare data following FHIR standards.
+
+- Built ingestion endpoints and validation for structured patient data flows.  
+- Normalized data into a consistent schema to enable downstream analytics.  
+- Focused on reliability and observability to reduce ingestion failures.  
+
+**Tech:** `Python` · `FastAPI` · `FHIR` · `Docker`  
+
+---
+
 ### 🔹 Pharmacy Management System — Desktop and Web
 
 > A role‑based pharmacy system with REST APIs and a React UI.
@@ -166,19 +178,4 @@ ML/AI Full Stack Software Engineer | Python, Java, React, AWS | LLMs + RAG | Hig
   Migrated financial data platforms to the cloud, maintained 99.9% uptime, built 100+ REST APIs, and engineered ETL pipelines processing 1M+ records/day with AWS Lambda, Kinesis, and SQS. [file:16]  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolsansi&show_icons=true&theme=tokyonight" alt="Anmol's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsansi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsansi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 
