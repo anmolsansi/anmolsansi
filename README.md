@@ -6,18 +6,19 @@ ML/AI Full Stack Software Engineer | Python, Java, React, AWS | LLMs + RAG | Hig
 
 <p align="center">
   <a href="mailto:asansi0896@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asansi0896%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/anmol-sansi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anmol%20Sansi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://anmolsansi.github.io/Anmol-Sansi-Resume/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/anmolsansi">
-    <img src="https://img.shields.io/badge/GitHub-anmolsansi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 ---
 
