@@ -25,8 +25,8 @@ ML/AI Full Stack Software Engineer | Python, Java, React, AWS | LLMs + RAG | Hig
 ## 👨‍💻 About Me
 
 - ML/AI **Full Stack Software Engineer** with 4+ years of experience building production systems in Python, Java, and JavaScript/ TypeScript.  
-- Comfortable owning services end‑to‑end: API design, data modeling (PostgreSQL, MongoDB), containerization, observability, and on‑call incident response in cloud environments (AWS, Docker, Kubernetes). [file:16]  
-- Recently focused on AI‑powered products: LLM + RAG workflows, multi‑agent systems, and automation tools that compress manual work from hours to minutes. [file:16]
+- Comfortable owning services end‑to‑end: API design, data modeling (PostgreSQL, MongoDB), containerization, observability, and on‑call incident response in cloud environments (AWS, Docker, Kubernetes).
+- Recently focused on AI‑powered products: LLM + RAG workflows, multi‑agent systems, and automation tools that compress manual work from hours to minutes. 
 
 ---
 
