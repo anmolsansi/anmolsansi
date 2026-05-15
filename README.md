@@ -170,13 +170,13 @@ ML/AI Full Stack Software Engineer | Python, Java, React, AWS | LLMs + RAG | Hig
 ## 💼 Experience Snapshot
 
 - **Full Stack Engineer – Alphadroid (USA)**  
-  Built multilingual, voice‑assisted platforms and AI hotel agents using React + Python/Node.js + OpenAI, cutting intake time by 30%, boosting form completion by 40%, and improving page load by 25%. [file:16]  
+  Built multilingual, voice‑assisted platforms and AI hotel agents using React + Python/Node.js + OpenAI, cutting intake time by 30%, boosting form completion by 40%, and improving page load by 25%.
 
 - **AI Full Stack Software Engineer II – AI.Rawat (USA)**  
-  Delivered a real‑time sales analytics platform and AI‑driven workflows for Moodle LMS with RAG chatbots and automated reporting, improving academic outcomes by 20% and feedback quality by 30%. [file:16]  
+  Delivered a real‑time sales analytics platform and AI‑driven workflows for Moodle LMS with RAG chatbots and automated reporting, improving academic outcomes by 20% and feedback quality by 30%.
 
 - **Software Engineer – S&P Global (India)**  
-  Migrated financial data platforms to the cloud, maintained 99.9% uptime, built 100+ REST APIs, and engineered ETL pipelines processing 1M+ records/day with AWS Lambda, Kinesis, and SQS. [file:16]  
+  Migrated financial data platforms to the cloud, maintained 99.9% uptime, built 100+ REST APIs, and engineered ETL pipelines processing 1M+ records/day with AWS Lambda, Kinesis, and SQS.
 
 ---
 
